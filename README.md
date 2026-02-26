@@ -24,7 +24,7 @@ Here is a breakdown of the tools and concepts I use to build solutions:
 ### 📌 Beyond the Code
 - 🎓 **Academics:** Computer Engineering student.
 - 🎯 **2026 Goals:** Reaching advanced English fluency and securing a full-time position at my current company! 🚀
-- 🎮 **Hobbies:** Modding my PC and gaming setup, playing various games on my rig, watching anime (*Jujutsu Kaisen* and *Naruto*), cheering for FURIA and Flamengo, and spending quality time with my 2 dogs! 🐕🐕
+- 🎮 **Hobbies:** Modding my PC and gaming setup, playing various games on my rig, watching anime (Like *Jujutsu Kaisen* and *Naruto*), cheering for FURIA and Flamengo, and spending quality time with my 2 dogs! 🐕🐕
 
 ---
 📫 **Reach me:** rafaelfischerrds@gmail.com | https://www.linkedin.com/in/rafaelfischerrds/
