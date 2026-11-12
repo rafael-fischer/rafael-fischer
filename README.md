@@ -1,23 +1,17 @@
 <div align="center">
-  <!-- Letreiro Animado (Typing SVG) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Rafael+Fischer+%F0%9F%9A%80;Computer+Engineering+%26+IT+Automation;ITSM%2FESM+Analyst+%40+Construtora+Tenda;REST+APIs+%7C+Python+%7C+Enterprise+Workflows" alt="Typing SVG" />
-  </a>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=200&section=header&text=Rafael+Fischer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer+Engineering+and+IT+Automation&descAlignY=58&descSize=18" />
 
   <p align="center">
     Currently working as an <b>ITSM/ESM Analyst at Construtora Tenda</b> in São Paulo, specializing in transforming manual corporate workflows into scalable Python automations, enterprise service management routines, and seamless API integrations.
   </p>
 
-  <!-- Botões de Contato Rápido & Contador de Visitas -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/rafaelfischerrds/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rafaelfischerrds@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
+    <a href="https://www.linkedin.com/in/rafaelfischerrds/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:rafaelfischerrds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
     <img src="https://komarev.com/ghpvc/?username=rafael-fischer&label=Profile%20Views&color=EF4444&style=for-the-badge" alt="Profile Views" />
   </p>
+
 </div>
 
 ---
@@ -58,8 +52,10 @@ Here is a breakdown of the tools, languages, and platforms I use to build soluti
 ### 📊 GitHub Analytics
 
 <div align="center">
+
   <img height="165em" src="https://streak-stats.demolab.com?user=rafael-fischer&theme=dark&hide_border=true&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" alt="GitHub Streak" />
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafael-fischer&layout=compact&langs_count=6&theme=dark&title_color=EF4444&hide_border=true" alt="Top Languages" />
+
 </div>
 
 ---
@@ -77,5 +73,4 @@ Here is a breakdown of the tools, languages, and platforms I use to build soluti
   </ul>
 </details>
 
-<!-- Footer Animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=90&section=footer"/>
